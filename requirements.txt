@@ -1,4 +1,4 @@
-﻿streamlit
+streamlit
 sympy
 numpy
 pillow
@@ -6,7 +6,6 @@ sentence-transformers
 transformers
 chromadb
 openai-whisper
-paddleocr
 python-multipart
 tqdm
 scikit-learn
