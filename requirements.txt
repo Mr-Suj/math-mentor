@@ -5,7 +5,6 @@ pillow
 sentence-transformers
 transformers
 chromadb==0.4.24
-openai-whisper
 python-multipart
 tqdm
 scikit-learn
