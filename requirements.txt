@@ -4,7 +4,7 @@ numpy
 pillow
 sentence-transformers
 transformers
-chromadb
+chromadb==0.4.24
 openai-whisper
 python-multipart
 tqdm
@@ -12,4 +12,5 @@ scikit-learn
 huggingface-hub
 langgraph
 google-genai
+pydantic==1.10.13
 torch --index-url https://download.pytorch.org/whl/cpu
